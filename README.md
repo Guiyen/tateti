@@ -1,0 +1,2 @@
+# tateti
+juego basico
